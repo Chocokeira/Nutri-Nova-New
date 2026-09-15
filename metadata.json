@@ -1,0 +1,6 @@
+{
+  "name": "Nutri Nova - Good Food. Better Living.",
+  "description": "Nutri Nova is a modern healthy food brand bringing wholesome, thoughtfully selected foods to make healthy living simpler and more enjoyable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
